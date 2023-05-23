@@ -1,5 +1,5 @@
 -  Hi, I’m arya !
-- I code with
+- I code with:
  
 ![CDNJS](https://img.shields.io/badge/React-61DAFB?style=&logo=react&logoColor=black)
 ![CDNJS](https://img.shields.io/badge/Docker-2496ED?style=&logo=docker&logoColor=white)
