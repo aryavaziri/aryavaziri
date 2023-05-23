@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aryavaziri !
 - 👀 I’m interested in learning. Designing is my other interest. I used to work in industrial automation and machatronic fields specially in textile industry. You can see some of my projects here www.aaryaa.ir/projects.html
 - I code with
+- 
 ![CDNJS](https://img.shields.io/badge/React-61DAFB?style=&logo=react&logoColor=black)
 ![CDNJS](https://img.shields.io/badge/Docker-2496ED?style=&logo=docker&logoColor=white)
 - 💞️ I’m looking to collaborate on project which I can share my experiences specially in robotics and ditigal design to improve my skills and learn new things.
