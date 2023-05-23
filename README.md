@@ -19,6 +19,7 @@
 ![CDNJS](https://img.shields.io/badge/Unity-FFFFFF?style=&logo=unity&logoColor=black)
 ![CDNJS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=&logo=tailwindCSS&logoColor=white)
 ![CDNJS](https://img.shields.io/badge/Firebase-FFCA28?style=&logo=firebase&logoColor=black)
+![CDNJS](https://img.shields.io/badge/PostgreSQL-4169E1?style=&logo=postgresql&logoColor=white)
 
 - 💞️ I’m looking to collaborate on project which I can share my experiences specially in robotics and ditigal design to improve my skills and learn new things.
 - 📫 If you're interested I can be reachable at arya.vaziri@gmail.com
