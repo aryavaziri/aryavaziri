@@ -23,7 +23,7 @@
 Looking to Collaborate On
 - Open-source projects related to web development, automation, and AI
 - Full-stack applications with React, Next.js, and Node.js
-- Cloud & DevOps solutions using Docker, NGINX, and Firebase
+- Cloud & DevOps solutions using Docker and NGINX
 - Digital product design and interactive experiences
 <!---
 aryavaziri/aryavaziri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
