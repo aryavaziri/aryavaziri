@@ -1,10 +1,12 @@
 # Arya Vaziri
 
+### Senior Full-Stack Developer | Next.js, TypeScript, SQL Server, DevOps and AI Workflows
+
 Full-stack developer focused on scalable applications, ERP systems, internal tools, AI-assisted workflows, and DevOps-ready infrastructure.
 
-I build software that turns complex business operations into clear, maintainable systems: dashboards, admin platforms, quoting and specification workflows, dynamic forms, database-backed applications, APIs, deployments, and server infrastructure.
+I build software that turns complex business operations into clear, maintainable applications: dashboards, admin platforms, quoting and specification workflows, dynamic forms, database-backed systems, APIs, deployments, and server infrastructure.
 
-My background also includes industrial systems and automation, which helps me understand real operational workflows and translate them into practical software.
+My background also includes industrial systems and automation, which gives me practical systems thinking without making manufacturing the main focus of my work.
 
 ## Tech I Work With
 
@@ -27,6 +29,15 @@ My background also includes industrial systems and automation, which helps me un
 - REST APIs, authentication systems, database design, and third-party integrations
 - DevOps workflows with Docker, NGINX, VPS/Azure infrastructure, and production deployments
 - AI-assisted document, quoting, and business-process automation
+
+## Selected Public Projects
+
+- [Personal Website](https://github.com/aryavaziri/my-personal-next) - Next.js/TypeScript portfolio with a Node/Express backend, GraphQL, MongoDB, Docker, and NGINX deployment setup.
+- [To Do List Software](https://github.com/aryavaziri/TDL-API) - full-stack task/list app with Next.js, Express, MongoDB/Mongoose, JWT, Google OAuth, and GraphQL experiments.
+- [PokerV1](https://github.com/aryavaziri/PokerV1) - single-computer browser poker app built with plain HTML, CSS, and JavaScript.
+- [Tetris p5.js](https://github.com/aryavaziri/Tetris_p5JS) - browser-based Tetris-style game built with p5.js.
+- [Casinoa](https://github.com/aryavaziri/Casinoa) - casino-themed web application project.
+- [myTemplate](https://github.com/aryavaziri/myTemplate) - reusable starter/template project.
 
 ## Current Focus
 
