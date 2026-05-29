@@ -32,12 +32,10 @@ My background also includes industrial systems and automation, which gives me pr
 
 ## Selected Public Projects
 
-- [Personal Website](https://github.com/aryavaziri/my-personal-next) - Next.js/TypeScript portfolio with a Node/Express backend, GraphQL, MongoDB, Docker, and NGINX deployment setup.
+- [Casinoa](https://github.com/aryavaziri/Casinoa) - casino-themed web application project.
+- [Tetris p5.js](https://github.com/aryavaziri/Tetris_p5JS) - browser-based Tetris-style game built with p5.js.
 - [To Do List Software](https://github.com/aryavaziri/TDL-API) - full-stack task/list app with Next.js, Express, MongoDB/Mongoose, JWT, Google OAuth, and GraphQL experiments.
 - [PokerV1](https://github.com/aryavaziri/PokerV1) - single-computer browser poker app built with plain HTML, CSS, and JavaScript.
-- [Tetris p5.js](https://github.com/aryavaziri/Tetris_p5JS) - browser-based Tetris-style game built with p5.js.
-- [Casinoa](https://github.com/aryavaziri/Casinoa) - casino-themed web application project.
-- [myTemplate](https://github.com/aryavaziri/myTemplate) - reusable starter/template project.
 
 ## Current Focus
 
